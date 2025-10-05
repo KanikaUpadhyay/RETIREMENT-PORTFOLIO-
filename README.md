@@ -12,3 +12,5 @@ This project designs a 25-year retirement plan tailored for a mid-career profess
 -Visualizations: Corpus growth chart, asset allocation pie, and risk metrics tables.
 -6-page Report Draft covering assumptions, strategy, analytics, and recommendations.
 
+![Corpus Growth](https://github.com/KanikaUpadhyay/RETIREMENT-PORTFOLIO-/blob/main/Asset%20Allocation.png)
+
