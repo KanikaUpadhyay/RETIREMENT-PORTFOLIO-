@@ -15,3 +15,4 @@ This project designs a 25-year retirement plan tailored for a mid-career profess
 ![Asset allocation](https://github.com/KanikaUpadhyay/RETIREMENT-PORTFOLIO-/blob/main/Asset%20Allocation.png)
 ![Asset Return and Volitality](https://github.com/KanikaUpadhyay/RETIREMENT-PORTFOLIO-/blob/main/Asset%20Return%20and%20Volitality.png)
 ![Corpus Trend](https://github.com/KanikaUpadhyay/RETIREMENT-PORTFOLIO-/blob/main/Corpus%20Trend.png)
+![End Balance and Corpus Projection](https://github.com/KanikaUpadhyay/RETIREMENT-PORTFOLIO-/blob/main/End%20Balance%20and%20Corpus%20Projection.png)
